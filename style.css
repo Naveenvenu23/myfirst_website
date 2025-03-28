@@ -1,0 +1,68 @@
+.navbar {
+    background-color: black;
+    color: white;
+    height: 100px;
+    text-align: center;
+
+    
+}
+a{
+    color: grey;
+}
+
+a:hover{
+    color: greenyellow;
+}
+
+.orderlist {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.menu__button{
+    background-color: black;
+    color: white;
+    width: 150px;
+}
+.menu__button:hover{
+    background-color: greenyellow;
+    color: black;
+    cursor: pointer;
+}
+
+.menu {
+    height: 410px;
+    width: 200px;
+    border: solid black 2px;
+    text-align: center;
+}
+
+h3 {
+    margin-top: 5px;
+    padding-left: 70px;
+    font-size: x-large;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    height: 200px;
+    padding: 5px;
+    padding-left: 40%;
+    margin-top: 50px;
+
+}
+
+.footer__submit {
+    width: 170px;
+    margin-top: 10px;
+    background-color: aqua;
+    color: black;
+
+
+}
+
+.footer__submit:hover {
+    background-color: greenyellow;
+    color: black;
+}
